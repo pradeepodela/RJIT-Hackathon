@@ -32,11 +32,7 @@ If our model classify weather a emergency vehicle present in the frame then the 
 
 2)Traffic rule violation detection(helmet detection)
 
-3)Vehicle detection and counting 
-
-4)Object detection and  counting 
-
-5)Accused detection
+3)Accused detection
 
 
 
