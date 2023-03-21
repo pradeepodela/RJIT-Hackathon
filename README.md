@@ -86,6 +86,9 @@ Start the server
   
 ## Authors
 
-- [@pradeepodela](https://github.com/pradeepodela)
+- [@Pradeepodela](https://github.com/pradeepodela)
+- [@Narsimha](https://github.com/Narsimha1202)
+<!-- - [@pradeepodela](https://github.com/pradeepodela) -->
+
 
   
